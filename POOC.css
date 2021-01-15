@@ -1,0 +1,26 @@
+body
+{
+background-color:blue;
+margin: 0 auto;
+
+}
+h2
+{
+    color: yellow;
+    text-align:center;
+}
+section 
+{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+label
+{
+    color: yellow;
+}
+footer
+{
+background-color: black;
+}
+

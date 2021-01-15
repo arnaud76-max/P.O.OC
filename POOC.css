@@ -1,7 +1,7 @@
 body
 {
 background-color:blue;
-margin: 0 auto;
+margin:  auto;
 
 }
 h2
@@ -20,6 +20,10 @@ label
     color: yellow;
 }
 footer
+{
+background-color: black;
+}
+header
 {
 background-color: black;
 }
